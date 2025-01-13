@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 💡 Feel free to reach out to me for recruiting opportunities.\
 💬 I’d also love to collaborate on the creation of new projects or explore fresh ideas just for fun!\
 ✉️ You can shoot me an email at borondocanizares.lucas@gmail.com.\
-📄 Please have a look at my [Résumé](https://www..com) for more details about me!
+📄 Please have a look at my [Résumé](https://github.com/LuBoCaDev/LuBoCaDev/blob/main/Lucas%20Borondo%20-%20EN.pdf) for more details about me!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 

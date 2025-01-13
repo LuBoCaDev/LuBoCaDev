@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **LuBoCaDev/LuBoCaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ![Lucas Banner](https://as1.ftcdn.net/jpg/02/96/61/94/1000_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello there! I'm Lucas</h2>
+<h1>Hello there! I am Lucas</h1>
+# Hello there! I am Lucas
 
 
 

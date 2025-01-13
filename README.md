@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ✍️ In my free time, I love traveling and exploring cities, beaches, and mountains! When I stay at home, I enjoy playing computer games.\
 💡 Feel free to reach out to me for recruiting opportunities.\
 💬 I’d also love to collaborate on the creation of new projects or explore fresh ideas just for fun!\
-✉️ You can shoot me an [email](mailto:borondocanizares.lucas@gmail.com) and I will anser ASAP!.\
+✉️ You can shoot me an [email](mailto:borondocanizares.lucas@gmail.com) and I will anser as soon as possible.\
 📄 Please have a look at my [résumé](https://github.com/LuBoCaDev/LuBoCaDev/blob/main/Lucas%20Borondo%20-%20EN.pdf) for more details about me!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>

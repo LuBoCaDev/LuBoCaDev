@@ -1,8 +1,4 @@
-
-
 <!--
-**LuBoCaDev/LuBoCaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,8 +14,6 @@ Here are some ideas to get you started:
 ![Lucas Banner](https://as1.ftcdn.net/jpg/02/96/61/94/1000_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg)
 
 <h1>Hello there! I am Lucas</h1>
-# Hello there! I am Lucas
-
 
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -29,7 +23,7 @@ Here are some ideas to get you started:
 ✍️ In my free time, I love traveling and exploring cities, beaches, and mountains! When I stay at home, I enjoy playing computer games.\
 💡 Feel free to reach out to me for recruiting opportunities.\
 💬 I’d also love to collaborate on the creation of new projects or explore fresh ideas just for fun!\
-✉️ You can shoot me an email at borondocanizares.lucas@gmail.com.\
+✉️ You can shoot me an [email](mailto:borondocanizares.lucas@gmail.com) and I will anser ASAP!.\
 📄 Please have a look at my [Résumé](https://github.com/LuBoCaDev/LuBoCaDev/blob/main/Lucas%20Borondo%20-%20EN.pdf) for more details about me!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>

@@ -47,6 +47,5 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/lucas-borondo/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg"/></a>
-<a href="mailto:borondocanizares.lucas@gmail.com"><img src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_1280.png"/></a>
 </p>
 

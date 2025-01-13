@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1>Hello there! I am Lucas</h1>
 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 About Me
 
 🔭 I love exploring new technologies and develop software solutions.\
 🎓 I'm currently studying a Full stack Web Developer bootcamp from KeepCoding Tech School.\
@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 💡 Feel free to reach out to me for recruiting opportunities.\
 💬 I’d also love to collaborate on the creation of new projects or explore fresh ideas just for fun!\
 ✉️ You can shoot me an [email](mailto:borondocanizares.lucas@gmail.com) and I will anser ASAP!.\
-📄 Please have a look at my [Résumé](https://github.com/LuBoCaDev/LuBoCaDev/blob/main/Lucas%20Borondo%20-%20EN.pdf) for more details about me!
+📄 Please have a look at my [résumé](https://github.com/LuBoCaDev/LuBoCaDev/blob/main/Lucas%20Borondo%20-%20EN.pdf) for more details about me!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 Tech Stack (Under construction...)
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -42,15 +42,11 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<!--
-### 🤝🏻 &nbsp;Connect with Me
+
+### 🤝🏻 Yo can find me in...
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lucas-borondo/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:borondocanizares.lucas@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lucas-borondo/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg"/></a>
+<a href="mailto:borondocanizares.lucas@gmail.com"><img src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_1280.png"/></a>
 </p>
--->
+

@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Lucas Banner](https://as1.ftcdn.net/jpg/02/96/61/94/1000_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg)
+![Lucas Banner](https://t3.ftcdn.net/jpg/08/86/49/54/360_F_886495498_14NHE9pzw6B7SGoU5Sxb4leA8gpXYDpz.jpg)
 
 <h1>Hello there! I am Lucas</h1>
 

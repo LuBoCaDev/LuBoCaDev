@@ -26,7 +26,11 @@ Here are some ideas to get you started:
 ✉️ You can shoot me an [email](mailto:borondocanizares.lucas@gmail.com) and I will anser as soon as possible.\
 📄 Please have a look at my [résumé](https://github.com/LuBoCaDev/LuBoCaDev/blob/main/Lucas%20Borondo%20-%20EN.pdf) for more details about me!
 
+<!-- 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+-->
+<img alt="Night Coding" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" align="right" width="500"/>
+
 
 ### 🛠 Tech Stack (Under construction...)
 

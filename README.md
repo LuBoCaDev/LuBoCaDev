@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 💡 Feel free to reach out to me for recruiting opportunities.\
 💬 I’d also love to collaborate on the creation of new projects or explore fresh ideas just for fun!\
 ✉️ You can shoot me an [email](mailto:borondocanizares.lucas@gmail.com) and I will anser as soon as possible.\
-📄 Please have a look at my [résumé](https://www.canva.com/design/DAGcEhMWPbc/KCIxSZ146hHMzla-8qLtdA/view?utm_content=DAGcEhMWPbc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h97ba2811a3) for more details about me!
+📄 Please have a look at my [résumé](https://www.canva.com/design/DAGbgFk83to/RcgwPWS8_VFf9srMb2C4Gw/view?utm_content=DAGbgFk83to&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd8406c68f3) for more details about me!
 
 <!-- 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
